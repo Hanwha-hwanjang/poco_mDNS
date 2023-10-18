@@ -1,9 +1,15 @@
 # poco_mDNS
 
 echo "# poco_mDNS" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git branch -M main
+
 git remote add origin https://github.com/Hanwha-hwanjang/poco_mDNS.git
+
 git push -u origin main
